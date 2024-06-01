@@ -40,3 +40,12 @@ input[type="submit"] {
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
+
+input[type="submit"]:hover {
+    background-color: #0056b3; /* Warna latar belakang tombol saat dihover */
+}
+
+::selection {
+    background-color: #007bff; /* Warna latar belakang teks terpilih */
+    color: #fff; /* Warna teks terpilih */
+}
