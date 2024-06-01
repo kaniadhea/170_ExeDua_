@@ -13,3 +13,9 @@ ul {
     list-style: none;
     padding: 0;
 }
+
+li {
+    margin-bottom: 30px; 
+    text-align: center;
+}
+
