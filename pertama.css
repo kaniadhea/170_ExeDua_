@@ -19,3 +19,7 @@ li {
     text-align: center;
 }
 
+video, audio, picture {
+    display: block;
+    margin: 0 auto;
+}
